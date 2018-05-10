@@ -1,0 +1,5 @@
+stubrunner:
+    ids: 'co.hodler:scdcproxy:+:stubs'
+    stubsMode: LOCAL
+    ids-to-service-ids:
+        scdcproxy: google-distance-service
